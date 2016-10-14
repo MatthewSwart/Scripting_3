@@ -1,13 +1,11 @@
 #BeautifulSoup: Parsing data from AIT timetable website.
+#Libraries:
+#        urlLib:
+#            Documentation: https://docs.python.org/2/library/urllib.html
+#        bs4:
+#            Download: https://www.crummy.com/software/BeautifulSoup/
+#            Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
-'''
-    Libraries:
-        urlLib:
-            Documentation: https://docs.python.org/2/library/urllib.html
-        bs4:
-            Download: https://www.crummy.com/software/BeautifulSoup/
-            Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-'''
 import urllib
 from bs4 import BeautifulSoup
 '''
